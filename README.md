@@ -91,8 +91,10 @@ I build **AI-powered products, interactive 3D experiences, and high-performance 
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ ItineraryAI
+### 🗺️ [ItineraryAI](https://itineraryai.in/)
 **Agentic trip planner · LangGraph harness**
+
+[![Live](https://img.shields.io/badge/Live-itineraryai.in-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://itineraryai.in/)
 
 A `planner → tools → critic` loop with conditional routing, typed agent state and a self-repair cycle. Three research tools run in parallel with per-tool fault isolation, backed by a ChromaDB RAG cache (30-day TTL) that kills redundant search calls. Progress streams over SSE from a FastAPI service on EC2.
 
